@@ -1,5 +1,7 @@
 import java.awt.*;
 
+//modify by richard
+
 public class EquilateralTriangle extends Triangle {
 
     public EquilateralTriangle() {
