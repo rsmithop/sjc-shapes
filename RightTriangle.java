@@ -11,6 +11,7 @@ public class RightTriangle extends Triangle
 
     /*
      * Draw the triangle with current specifications on screen.
+     * TEST!!
      */
     protected void draw()
     {
